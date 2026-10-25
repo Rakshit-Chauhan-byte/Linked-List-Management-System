@@ -1,0 +1,15 @@
+# Compiled executables and objects
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug and IDE directories
+.vscode/
+.idea/
+*.swp
+*.log
+
+# System and temporary scratch files
+.system_generated/
+scratch/
